@@ -1,4 +1,4 @@
-# 🚩 CTF Writeups
+# 🚩 Writeups
 
 Repositório com writeups de CTFs e rooms das principais plataformas de hacking ético. Cada solução documenta o raciocínio, ferramentas e técnicas utilizadas durante a resolução dos desafios.
 
@@ -7,32 +7,35 @@ Repositório com writeups de CTFs e rooms das principais plataformas de hacking 
 ## 📁 Estrutura do Repositório
 
 ```
-ctf-writeups/
+writeups/
 │
-├── TryHackMe/
-│   ├── Easy/
+├── thm/
+│   ├── easy/
 │   │   └── nome-do-room.md
-│   ├── Medium/
+│   ├── medium/
 │   │   └── nome-do-room.md
-│   ├── Hard/
+│   ├── hard/
 │   │   └── nome-do-room.md
 │   └── ...
 │
-├── HackTheBox/
-│   ├── Easy/
+├── htb/
+│   ├── easy/
 │   │   └── nome-da-maquina.md
-│   ├── Medium/
+│   ├── medium/
 │   │   └── nome-da-maquina.md
-│   ├── Hard/
+│   ├── hard/
 │   │   └── nome-da-maquina.md
-│   ├── Insane/
+│   ├── insane/
 │   │   └── nome-da-maquina.md
 │   └── ...
 │
-└── Outros/
-    ├── Easy/
-    ├── Medium/
-    └── Hard/
+├── outros/
+│   ├── easy/
+│   ├── medium/
+│   └── hard/
+│
+└── review/
+    └── nome-do-writeup.md
 ```
 
 ---
@@ -113,6 +116,15 @@ Técnicas utilizadas após o acesso inicial.
 
 #### ⚫ Insane
 <!-- Lista de writeups Insane do HackTheBox -->
+- Em breve...
+
+---
+
+### 🔍 Em Revisão
+
+Writeups ainda não finalizados ou pendentes de revisão ficam em [`Review/`](./Review/).
+
+<!-- Lista de writeups em revisão -->
 - Em breve...
 
 ---
